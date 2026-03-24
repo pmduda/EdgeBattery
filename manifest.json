@@ -1,0 +1,9 @@
+{
+  "Name": "Edge Battery",
+  "Version": "1.0",
+  "Id": "pmduda.EdgeBattery",
+  "MinimumGameVersion": "1.0.0.0",
+  "Description": "Gravity battery that can be put on the edge of the map.",
+  "RequiredMods": [],
+  "OptionalMods": []
+}

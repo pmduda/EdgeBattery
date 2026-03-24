@@ -1,0 +1,5 @@
+ID,Text,Comment
+Building.EdgeBattery.DisplayName,Edge Battery,
+Building.EdgeBattery.Description,Peak (or rather bottom) of beaver power storage capability.,
+Building.EdgeBattery.FlavorDescription,"I saw an elephant on a turtle down there! I swear. – Pina",
+Buildings.MustBeOnEdge,Building must be placed on the map edge.,
